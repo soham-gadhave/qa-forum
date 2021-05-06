@@ -1,0 +1,17 @@
+#post-answer-form {
+    margin-left: 70px;
+    padding-left: 15px;
+}
+
+i {
+    font-style: normal;
+}
+
+#answer-text {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.icon-click {
+    pointer-events: none;
+}

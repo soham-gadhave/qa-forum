@@ -1,0 +1,23 @@
+{
+    "QA_FORUM_API_URI": "https://qa-forum-api.herokuapp.com",
+    "QLASSIFIER_API_URI": "https://qlassifier-api.herokuapp.com",
+    "JWT_KEY": "qa-forum-jwt",
+    
+    "RAZORPAY_KEY_ID": "YOUR_RAZORPAY_API_KEY_ID",
+    "USER": "user",
+    "PLANS": {
+        "basic": {
+            "price": {
+                "one_month": 0,
+                "one_year": 0 
+            }
+        },
+        "premium": {
+            "price": {
+                "one_month": 100,
+                "one_year": 100000 
+            }
+        }
+    },
+    "RECEIPT_NAME": "QAForum Inc."
+}

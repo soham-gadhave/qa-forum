@@ -1,0 +1,9 @@
+.plan-cards {
+    box-shadow: 0px 2px 7px 2px gray;
+    width: 14rem;
+}
+
+.plan-cards:hover {
+    cursor: pointer;
+    box-shadow: 0px 2px 10px 2px gray
+}
